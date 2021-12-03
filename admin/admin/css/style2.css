@@ -1,0 +1,47 @@
+/* CSS Document */
+#i{
+font-size:16px;
+color:#003333;}
+
+#detail{
+border:1px solid #666666;
+width:55%;
+margin-left:1%;
+padding-left:15px;
+margin-bottom:10px;
+margin-top:2%;}
+
+#detail2{
+margin-top:2%;
+width:55%;
+margin-left:1%;
+padding-left:15px;
+border:1px #666666 solid;}
+
+#men{}
+
+
+#table{
+margin-top:2%;
+border:2px #666666 solid;
+width:98%;}
+
+#table,th,tr,td{
+border:2px #666666 solid;}
+
+#table-th{
+font-weight:bolder;}
+
+#table2{
+margin-top:2%;
+border:2px #666666 solid;
+width:98%;}
+
+#table2,th,tr,td{
+border:2px #666666 solid;}
+
+#table2-th{
+font-weight:bolder;}
+
+
+#men{}
